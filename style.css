@@ -1,0 +1,11 @@
+body {
+  background-color: #3333ff;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#state, #source {
+  text-align: center;
+}
+
+.link {
+  stroke: #ccc;
+}
